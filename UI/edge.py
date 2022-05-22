@@ -27,4 +27,4 @@ class Edge(QtWidgets.QGraphicsLineItem):
         self.is_active = not self.is_active
         self.update_pen()
         self.scene().edge_clicked_signal.emit(self.edge_name)
-        return QtWidgets.QGraphicsEllipseItem.mouseReleaseEvent(self, event)
+        
