@@ -7,3 +7,7 @@ usando `pip install -r requirements.txt`
 
 Para ejecutar el simulador ejecute el siguiente comando desde la raiz de este proyecto.  
 `python main.py`
+
+> [!NOTE]
+> 
+> This repositiry stores is a practical exercise of a forked multi-agent system
