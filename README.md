@@ -10,4 +10,4 @@ Para ejecutar el simulador ejecute el siguiente comando desde la raiz de este pr
 
 > [!NOTE]
 > 
-> This repositiry stores is a practical exercise of a forked multi-agent system
+> **This repository stores is a practical exercise of a forked multi-agent system**
